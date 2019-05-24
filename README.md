@@ -1,3 +1,2 @@
-# tiny
-Simple npm module
-![GitHub manifest version](https://img.shields.io/github/manifest-json/v/Zeke2017/tiny.svg)
+![npm](https://img.shields.io/npm/v/tiny.svg)
+![npm bundle size](https://img.shields.io/bundlephobia/min/tiny.svg)
