@@ -1,0 +1,2 @@
+# tiny
+Simple npm module
