@@ -4,9 +4,9 @@
 Removes all spaces from a string.
 
 Install
-$ npm install @bamblehorse/tiny
+$ npm install @muzeke.npm/tiny
 Usage
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@muzeke.npm/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
